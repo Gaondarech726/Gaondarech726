@@ -1,4 +1,4 @@
-<h2 align="center">Hi👋, my name is Anton and I'm studying to be a front-end developer, I'm from Ukraine 🇺🇦</h2>
+<h2 align="center">Hi👋, my name is Anton and I'm studying to be a front-end developer, I'm from Ukraine</h2>
 
 ###
 
